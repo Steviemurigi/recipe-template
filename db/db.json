@@ -1,444 +1,211 @@
-{
-  "example": [
-    {
-      "id": 1,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+ [
+      {
+        "id": 1,
+        "name": "Spaghetti Bolognese",
+        "image": "https://via.placeholder.com/150",
+        "category": "Dinner",
+        "ingredients": [
+          "200g spaghetti",
+          "1 onion",
+          "2 garlic cloves",
+          "400g ground beef",
+          "400g tomato sauce"
+        ],
+        "instructions": "Cook pasta. Sauté onions, garlic, and ground beef. Add tomato sauce and simmer."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 2,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 2,
+        "name": "Chicken Caesar Salad",
+        "image": "https://via.placeholder.com/150",
+        "category": "Lunch",
+        "ingredients": [
+          "1 chicken breast",
+          "1 head romaine lettuce",
+          "1/4 cup Caesar dressing",
+          "1/4 cup croutons",
+          "2 tbsp Parmesan cheese"
+        ],
+        "instructions": "Grill chicken. Mix lettuce, croutons, Caesar dressing, and Parmesan. Top with chicken."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 3,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 3,
+        "name": "Pancakes",
+        "image": "https://via.placeholder.com/150",
+        "category": "Breakfast",
+        "ingredients": [
+          "1 cup flour",
+          "1 cup milk",
+          "1 egg",
+          "2 tbsp sugar",
+          "1 tbsp butter"
+        ],
+        "instructions": "Mix flour, milk, eggs, and sugar. Pour batter onto hot griddle. Flip when bubbly."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 4,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 4,
+        "name": "Vegetable Stir-fry",
+        "image": "https://via.placeholder.com/150",
+        "category": "Dinner",
+        "ingredients": [
+          "2 cups mixed vegetables",
+          "2 tbsp soy sauce",
+          "1 garlic clove",
+          "1 tsp ginger",
+          "1 tbsp olive oil"
+        ],
+        "instructions": "Stir-fry mixed vegetables with soy sauce, garlic, and ginger. Serve with rice."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 5,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 5,
+        "name": "Chocolate Cake",
+        "image": "https://via.placeholder.com/150",
+        "category": "Dessert",
+        "ingredients": [
+          "1 cup flour",
+          "1/2 cup cocoa powder",
+          "1 cup sugar",
+          "2 eggs",
+          "1/2 cup milk"
+        ],
+        "instructions": "Mix flour, cocoa powder, sugar, eggs, and milk. Bake at 350°F for 30 minutes."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 6,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 6,
+        "name": "Grilled Cheese Sandwich",
+        "image": "https://via.placeholder.com/150",
+        "category": "Lunch",
+        "ingredients": [
+          "2 slices of bread",
+          "2 slices of cheese",
+          "1 tbsp butter"
+        ],
+        "instructions": "Butter bread, add cheese, and grill on medium heat until golden brown."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 7,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 7,
+        "name": "Tacos",
+        "image": "https://via.placeholder.com/150",
+        "category": "Dinner",
+        "ingredients": [
+          "200g ground beef",
+          "1 packet taco seasoning",
+          "4 tortillas",
+          "1/2 cup shredded lettuce",
+          "1/2 cup shredded cheese",
+          "1/4 cup salsa"
+        ],
+        "instructions": "Cook ground beef with taco seasoning. Serve in tortillas with lettuce, cheese, and salsa."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 8,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 8,
+        "name": "Avocado Toast",
+        "image": "https://via.placeholder.com/150",
+        "category": "Breakfast",
+        "ingredients": [
+          "1 avocado",
+          "2 slices of bread",
+          "1 tbsp olive oil",
+          "Salt",
+          "Pepper"
+        ],
+        "instructions": "Toast bread, mash avocado, and spread on toast. Add salt, pepper, and a drizzle of olive oil."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 9,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 9,
+        "name": "Blueberry Muffins",
+        "image": "https://via.placeholder.com/150",
+        "category": "Dessert",
+        "ingredients": [
+          "1 1/2 cups flour",
+          "1/2 cup sugar",
+          "2 eggs",
+          "1/2 cup milk",
+          "1 cup blueberries"
+        ],
+        "instructions": "Mix flour, sugar, eggs, milk, and blueberries. Bake at 375°F for 20-25 minutes."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 10,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 10,
+        "name": "Omelette",
+        "image": "https://via.placeholder.com/150",
+        "category": "Breakfast",
+        "ingredients": [
+          "3 eggs",
+          "1/4 cup cheese",
+          "1/4 cup diced vegetables",
+          "1 tbsp butter"
+        ],
+        "instructions": "Whisk eggs, pour into a hot pan, and cook until set. Add cheese and vegetables."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 11,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 11,
+        "name": "Beef Stew",
+        "image": "https://via.placeholder.com/150",
+        "category": "Dinner",
+        "ingredients": [
+          "500g beef",
+          "2 carrots",
+          "2 potatoes",
+          "1 onion",
+          "2 cups beef broth"
+        ],
+        "instructions": "Brown beef, then simmer with carrots, potatoes, and beef broth for 2 hours."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 12,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 12,
+        "name": "French Toast",
+        "image": "https://via.placeholder.com/150",
+        "category": "Breakfast",
+        "ingredients": [
+          "2 slices of bread",
+          "1 egg",
+          "1/4 cup milk",
+          "1 tbsp butter",
+          "1 tsp cinnamon"
+        ],
+        "instructions": "Mix egg, milk, and cinnamon. Dip bread into the mixture. Cook on hot pan with butter until golden."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 13,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 13,
+        "name": "Caesar Wrap",
+        "image": "https://via.placeholder.com/150",
+        "category": "Lunch",
+        "ingredients": [
+          "1 tortilla",
+          "1 chicken breast",
+          "1/4 cup Caesar dressing",
+          "1/4 cup lettuce",
+          "2 tbsp Parmesan cheese"
+        ],
+        "instructions": "Grill chicken. Wrap it with lettuce, Caesar dressing, and Parmesan in a tortilla."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 14,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
+      {
+        "id": 14,
+        "name": "Tomato Soup",
+        "image": "https://via.placeholder.com/150",
+        "category": "Dinner",
+        "ingredients": [
+          "4 ripe tomatoes",
+          "1 onion",
+          "2 garlic cloves",
+          "2 cups vegetable broth",
+          "1 tbsp olive oil"
+        ],
+        "instructions": "Sauté onions and garlic. Add chopped tomatoes and vegetable broth. Simmer for 20 minutes and blend."
       },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 15,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 16,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 17,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 18,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 19,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 20,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 21,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 22,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 23,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 24,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 25,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 26,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 27,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 28,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 29,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 30,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 31,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 32,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 33,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 34,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 35,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 36,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 37,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 38,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 39,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 40,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    }
-  ]
-}
+      {
+        "id": 15,
+        "name": "Banana Smoothie",
+        "image": "https://via.placeholder.com/150",
+        "category": "Breakfast",
+        "ingredients": [
+          "2 bananas",
+          "1 cup milk",
+          "1/2 cup yogurt",
+          "1 tbsp honey"
+        ],
+        "instructions": "Blend bananas, milk, yogurt, and honey until smooth. Serve chilled."
+      }
+    ]
+  
+  
