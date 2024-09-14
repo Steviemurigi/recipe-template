@@ -1,4 +1,6 @@
-      {
+{
+      "recipelist":[
+        {
         "id": 1,
         "name": "Spaghetti Bolognese",
         "image": "https://via.placeholder.com/150",
@@ -205,6 +207,7 @@
         ],
         "instructions": "Blend bananas, milk, yogurt, and honey until smooth. Serve chilled."
       }
-    
+   ]
+}
   
   
