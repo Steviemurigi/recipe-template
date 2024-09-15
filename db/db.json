@@ -1,9 +1,9 @@
 {
-      "recipelist":[
-        {
+    "recipes": [
+      {
         "id": 1,
         "name": "Spaghetti Bolognese",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://img.freepik.com/free-photo/spaghetti-with-bolognese-sauce-wooden-table_123827-22963.jpg",
         "category": "Dinner",
         "ingredients": [
           "200g spaghetti",
@@ -17,7 +17,7 @@
       {
         "id": 2,
         "name": "Chicken Caesar Salad",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://www.shutterstock.com/image-photo/classic-caesar-salad-grilled-chicken-600nw-1738605458.jpg",
         "category": "Lunch",
         "ingredients": [
           "1 chicken breast",
@@ -31,7 +31,7 @@
       {
         "id": 3,
         "name": "Pancakes",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4TJsceHwjtAUNKrp5suYGG4_-eE88Nqxu4g&s",
         "category": "Breakfast",
         "ingredients": [
           "1 cup flour",
@@ -45,7 +45,7 @@
       {
         "id": 4,
         "name": "Vegetable Stir-fry",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://t3.ftcdn.net/jpg/01/04/13/56/360_F_104135636_bH0l3ScKrNedCikbIsEgR49I6phhpzuH.jpg",
         "category": "Dinner",
         "ingredients": [
           "2 cups mixed vegetables",
@@ -59,7 +59,7 @@
       {
         "id": 5,
         "name": "Chocolate Cake",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://media.istockphoto.com/id/1370520449/photo/slice-of-chocolate-cake-with-glaze.jpg?s=612x612&w=0&k=20&c=KK-h7w4l0FNA0YMWvkr1X8UrAAB77z0f5tTByBYgReM=",
         "category": "Dessert",
         "ingredients": [
           "1 cup flour",
@@ -73,7 +73,7 @@
       {
         "id": 6,
         "name": "Grilled Cheese Sandwich",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7sFcgSRCqibSVedVBFAPqQ4fGs-8McyLotQ&s",
         "category": "Lunch",
         "ingredients": [
           "2 slices of bread",
@@ -85,7 +85,7 @@
       {
         "id": 7,
         "name": "Tacos",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDU0EY9DBSKdk8ifngtyt8W43LVWyuQpD4_w&s",
         "category": "Dinner",
         "ingredients": [
           "200g ground beef",
@@ -100,7 +100,7 @@
       {
         "id": 8,
         "name": "Avocado Toast",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://images.unsplash.com/photo-1504382262782-5b4ece78642b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGF2b2NhZG8lMjB0b2FzdHxlbnwwfHwwfHx8MA%3D%3D",
         "category": "Breakfast",
         "ingredients": [
           "1 avocado",
@@ -114,7 +114,7 @@
       {
         "id": 9,
         "name": "Blueberry Muffins",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://www.shutterstock.com/image-photo/closeup-two-delicious-blueberry-muffin-600nw-2483090979.jpg",
         "category": "Dessert",
         "ingredients": [
           "1 1/2 cups flour",
@@ -128,7 +128,7 @@
       {
         "id": 10,
         "name": "Omelette",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://cdn.pixabay.com/photo/2015/05/20/16/11/kitchen-775746_1280.jpg",
         "category": "Breakfast",
         "ingredients": [
           "3 eggs",
@@ -141,7 +141,7 @@
       {
         "id": 11,
         "name": "Beef Stew",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://www.shutterstock.com/image-photo/irish-stew-st-patricks-day-600nw-2492128995.jpg",
         "category": "Dinner",
         "ingredients": [
           "500g beef",
@@ -155,7 +155,7 @@
       {
         "id": 12,
         "name": "French Toast",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://t4.ftcdn.net/jpg/01/95/34/53/360_F_195345317_3Fmu3XXrVjzt4I6oSG9qdA2wYW74NyQG.jpg",
         "category": "Breakfast",
         "ingredients": [
           "2 slices of bread",
@@ -169,7 +169,7 @@
       {
         "id": 13,
         "name": "Caesar Wrap",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://media.istockphoto.com/id/589124512/photo/chicken-caesar-salad-sandwich-wraps.jpg?s=612x612&w=0&k=20&c=T3aHb8mKEaFz72HPti5Ep2WPxpZgqFpF962gntN99MY=",
         "category": "Lunch",
         "ingredients": [
           "1 tortilla",
@@ -183,7 +183,7 @@
       {
         "id": 14,
         "name": "Tomato Soup",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://img.freepik.com/free-photo/warm-tomato-soup-serve-bowl_1150-42626.jpg",
         "category": "Dinner",
         "ingredients": [
           "4 ripe tomatoes",
@@ -197,7 +197,7 @@
       {
         "id": 15,
         "name": "Banana Smoothie",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://media.istockphoto.com/id/1170162958/photo/banana-smoothie.jpg?s=612x612&w=0&k=20&c=1vLluqONLlFrtv--RTp-ZYRHVOgAXdneXPS85QwWUNM=",
         "category": "Breakfast",
         "ingredients": [
           "2 bananas",
@@ -207,7 +207,6 @@
         ],
         "instructions": "Blend bananas, milk, yogurt, and honey until smooth. Serve chilled."
       }
-   ]
-}
-  
+    ]
+  }
   
